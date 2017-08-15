@@ -7,6 +7,7 @@ web/app/plugins/*
 !web/app/plugins/beaver-extender
 !web/app/plugins/child-themer
 !web/app/plugins/tinymce-advanced
+!web/app/plugins/genesis-extender
 
 
 
